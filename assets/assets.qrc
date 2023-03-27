@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/assets">
+        <file>vegetable-salad.png</file>
+        <file>reishabu-salad.png</file>
+    </qresource>
+</RCC>
