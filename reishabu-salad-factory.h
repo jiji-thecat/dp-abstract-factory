@@ -3,7 +3,9 @@
 
 #include <QString>
 
-class ReishabuSaladFactory
+#include "factory.h"
+
+class ReishabuSaladFactory : public Factory
 {
 public:
     ReishabuSaladFactory();
